@@ -1,0 +1,82 @@
+food_name,serving_description,calories,protein_g,carbs_g,fat_g,fiber_g
+egg,1 large (50g),72,6.3,0.4,4.8,0
+oatmeal cooked,1 cup (234g),166,5.9,28.1,3.6,4
+plain greek yogurt,1 cup (245g),146,25,8,4,0
+whole milk,1 cup (244g),149,7.7,11.7,8,0
+skim milk,1 cup (245g),83,8.3,12.2,0.2,0
+cornflakes,1 cup (28g),100,2,24,0,1
+whole wheat bread,1 slice (32g),81,4,13.8,1.1,1.9
+white bread,1 slice (29g),77,2.6,14.2,1,0.8
+butter,1 tablespoon (14g),102,0.1,0,11.5,0
+strawberry jam,1 tablespoon (20g),56,0.1,13.8,0,0.2
+bacon,1 slice cooked (8g),43,3,0.1,3.3,0
+pork sausage,1 link cooked (27g),95,5.4,0.4,8.1,0
+pancake,1 medium (38g),86,2.4,10.8,3.7,0.4
+maple syrup,1 tablespoon (20g),52,0,13.4,0,0
+cream cheese,1 tablespoon (15g),51,0.9,0.6,5,0
+chicken breast cooked,100g,165,31,0,3.6,0
+ground beef 85% lean cooked,100g,215,26,0,12,0
+salmon cooked,100g,206,22,0,12,0
+canned tuna in water,100g,116,26,0,0.8,0
+turkey breast cooked,100g,135,30,0,1,0
+pork chop cooked,100g,231,25,0,14,0
+tofu firm,100g,144,17,3,9,2
+shrimp cooked,100g,99,24,0.2,0.3,0
+ham deli sliced,100g,145,18,1.5,7,0
+turkey deli sliced,100g,104,17,4,1.5,0
+black beans cooked,1 cup (172g),227,15,41,0.9,15
+chickpeas cooked,1 cup (164g),269,14.5,45,4.2,12.5
+white rice cooked,1 cup (158g),205,4.3,45,0.4,0.6
+brown rice cooked,1 cup (195g),216,5,45,1.8,3.5
+spaghetti cooked,1 cup (140g),220,8,43,1.3,2.5
+baked potato with skin,1 medium (173g),161,4.3,36.6,0.2,3.8
+sweet potato baked with skin,1 medium (114g),103,2.3,23.6,0.2,3.8
+quinoa cooked,1 cup (185g),222,8,39,3.6,5.2
+french fries,1 medium serving (117g),365,4,48,17,4
+flour tortilla,1 medium (49g),144,3.8,24.5,3.6,1.5
+corn tortilla,1 medium (24g),52,1.4,10.6,0.7,1.5
+bagel plain,1 medium (105g),277,11,55,1.7,2.4
+broccoli cooked,1 cup (156g),55,3.7,11.2,0.6,5.1
+carrot raw,1 medium (61g),25,0.6,5.8,0.1,1.7
+spinach raw,1 cup (30g),7,0.9,1.1,0.1,0.7
+romaine lettuce,1 cup shredded (47g),8,0.6,1.5,0.1,1
+tomato raw,1 medium (123g),22,1.1,4.8,0.2,1.5
+cucumber raw,1 cup sliced (104g),16,0.7,3.8,0.1,0.5
+red bell pepper raw,1 medium (119g),37,1.2,7.2,0.4,2.5
+onion raw,1 medium (110g),44,1.2,10.3,0.1,1.9
+mushrooms raw,1 cup sliced (70g),15,2.2,2.3,0.2,0.7
+corn cooked,1 cup (164g),143,5.4,31,2.2,3.6
+green beans cooked,1 cup (125g),44,2.4,9.9,0.4,4
+avocado,1 medium (201g),322,4,17,29,13.5
+apple,1 medium (182g),95,0.5,25,0.3,4.4
+banana,1 medium (118g),105,1.3,27,0.4,3.1
+orange,1 medium (131g),62,1.2,15.4,0.2,3.1
+strawberries,1 cup (152g),49,1,11.7,0.5,3
+blueberries,1 cup (148g),84,1.1,21.5,0.5,3.6
+grapes,1 cup (151g),104,1.1,27.3,0.2,1.4
+watermelon,1 cup diced (152g),46,0.9,11.5,0.2,0.6
+pineapple,1 cup chunks (165g),82,0.9,21.7,0.2,2.3
+mango,1 cup sliced (165g),99,1.4,24.7,0.6,2.6
+grapefruit,1/2 medium (123g),52,0.9,13,0.2,2
+peanut butter,1 tablespoon (16g),94,3.6,3.6,8,1
+almonds,1 ounce (28g),164,6,6.1,14.2,3.5
+walnuts,1 ounce (28g),185,4.3,3.9,18.5,1.9
+cheddar cheese,1 ounce (28g),115,7,0.4,9.4,0
+mozzarella cheese,1 ounce (28g),85,6.3,0.6,6.3,0
+potato chips,1 ounce (28g),152,2,15,10,1.4
+popcorn air popped,1 cup (8g),31,1,6.2,0.4,1.2
+granola bar,1 bar (24g),95,1.9,17,2.6,1.1
+dark chocolate,1 ounce (28g),170,2.2,13,12,3.1
+vanilla ice cream,1/2 cup (66g),137,2.3,16,7.3,0.5
+cheese pizza,1 slice (107g),285,12,36,10,2.5
+hamburger,1 medium (110g),254,12,31,9,1.5
+black coffee,1 cup (240ml),2,0.3,0,0,0
+green tea,1 cup (245ml),2,0.5,0,0,0
+orange juice,1 cup (248ml),112,1.7,25.8,0.5,0.5
+cola,1 can (355ml),140,0,39,0,0
+beer regular,1 can (355ml),153,1.6,12.6,0,0
+red wine,1 glass (147ml),125,0.1,3.8,0,0
+olive oil,1 tablespoon (14g),119,0,0,13.5,0
+mayonnaise,1 tablespoon (14g),94,0.1,0.6,10.3,0
+ketchup,1 tablespoon (15g),19,0.2,4.7,0,0.1
+honey,1 tablespoon (21g),64,0.1,17.3,0,0
