@@ -2,7 +2,7 @@
 
 ## Demo Video
 
-[Watch the demo](#) <!-- Replace # with your video link -->
+[Watch the demo](https://youtu.be/RmFhyo6Fhws)
 
 ---
 
